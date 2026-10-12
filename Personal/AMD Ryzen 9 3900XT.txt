@@ -1,0 +1,11 @@
+AMD Ryzen 9 3900XT
+Max CPU Temp 95.03 degrees Celsius
+Max CPU Power Draw 180.05 Watts
+Max CPU Utilization 100.00%
+
+NVIDIA TITAN RTX
+Max GPU Temp 75.25 degrees Celsius
+Max GPU Power Draw 322.72 Watts
+Max GPU Utilization 97.00%
+
+No errors reported during the 15 minutes.

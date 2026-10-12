@@ -1,0 +1,21 @@
+-CPU: AMD Ryzen 9 3900XT 12-core, 24-Threads
+
+-CPU Cooler: Thermalright Aqua Elite 240 V3 AIO CPU Cooler, 240mm Liquid Cooling, ARGB PWM Fans, Intel LGA1150-1200/2011/1700, AMD AM4/AM5
+
+-MOBO: Gigabyte B550I Aorus Pro AX
+
+-RAM: TEAMGROUP T-Force Vulcan Z DDR4 32GB Kit (2x16GB) 3200MHz (PC4-25600) CL16
+
+-Case: Cooler Master NR200 Mini-ITX PC Case, 330mm Horizontal Triple-Slot Mount GPU, 240mm|280mm AIO, SFX PSU 130mm, Compatible RX 7900 XTX|4080 Super, Vented Panels, DIY
+
+-SSD (OS): Crucial P3 Plus 1TB PCIe M.2 2280 SSD | CT1000P3PSSD8
+
+-HDD (Storage): Seagate BarraCuda 5TB Internal Hard Drive HDD – 2.5 Inch Sata 6Gb/s 5400 RPM 128MB Cache for Computer Desktop PC (ST5000LM000)
+
+-SSD (USB, External): SanDisk Extreme SSD 500 GB
+
+-GPU: NVIDIA TITAN RTX 24 GB
+
+-Monitor: (1x) VIOTEK GFV22CB Ultra-Compact 22-Inch 144Hz Gaming Monitor | 1080P Full-HD 5ms | G-Sync-Compatible FreeSync FPS/RTS | 2x HDMI 3.5mm DP | Zero-Tolerance Dead Pixel Policy (VESA),22" 1080p 144Hz Black
+
+-Power Supply: SilverStone SST-SX650-G (650W 80 PLUS Gold SFX)

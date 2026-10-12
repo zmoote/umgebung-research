@@ -1,0 +1,15 @@
+UMaine (Fall 2026)
+Dartmouth (Fall 2027)
+RIT (Fall 2027)
+UNH (Fall 2027)
+UMass Amherst (Fall 2027)
+
+
+
+
+Community College of Vermont (2016; 2022 – 2023)  
+River Valley Community College (2017)  
+Champlain College (2018 – 2022)  
+Southern New Hampshire University (2023 – 2026)
+
+An observer is hovering in a stationary spacecraft at a constant radial coordinate r = (3/2)R_s (the photon sphere) around an uncharged, non-rotating Schwarzschild black hole of mass M, where R_s = (2GM)/(c^2) is the Schwarzschild radius. The observer fires a laser pulse tangentially (perpendicular to the radial direction). The laser pulse becomes trapped in the circular photon orbit and eventually circumnavigates the black hole, returning to the spacecraft. Calculate the time it takes for the laser pulse to return, as measured by the observer's own clock (their proper time, tau). Express your final answer strictly in terms of R_s and the speed of light c.

@@ -1,0 +1,7 @@
+My laptop is an ASUS ROG Zephyrus M16 (GU604VI) with the following specifications:
+- CPU: Intel Core i9-13900H (20 cores, 2.6 GHz)
+- GPU: NVIDIA GeForce RTX 4070 Laptop GPU (8 GB dedicated memory)
+- RAM: 32 GB DDR5
+- Storage: 1 TB NVMe SSD (C: Drive), 1 TB NVMe SSD (D: Drive) 
+- Display: 2560x1600 resolution at 240 Hz
+- OS: Windows 11 Home 64-bit

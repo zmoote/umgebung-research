@@ -1,0 +1,4 @@
+Dartmouth: $100
+RIT: $65
+UNH: $65
+UMaine: $65

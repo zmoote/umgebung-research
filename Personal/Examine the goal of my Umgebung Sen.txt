@@ -1,0 +1,2 @@
+Examine the goal of my "Umgebung" Senior Capstone project, and evaluate its current progress. Guide me through how to best model the concepts from these sources in a unified manner using C++, CUDA, CMake, vcpkg best practices.
+Please note, however, that I don't simply want to be "inspired" by these concepts. I want to have a singular, unified model of reality using these sources and then implement the concepts and mathematics verbatim as a computable, user-interactive 2D and 3D simulation.

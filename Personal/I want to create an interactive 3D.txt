@@ -1,0 +1,22 @@
+I want to create an interactive 3D desktop application, called "Umgebung," with the goal of simulating reality.
+The challenge with this is that I am searching for the absolute, ultimate truth; Not what the mainstream media has been brainwashing us to believe is the "truth." This means learning everything I can from "fringe" thinkers, extraterrestrial contactees, supernatural experiencers, etc., and modeling the information within an object-oriented framework. This would include topics like Consciousness, Soul, Creation, Vibrational Density, but also Quantum Mechanics, Classical Mechanics and such.
+
+I will be utilizing C++20, CUDA, multithreading, and any libraries or dependencies that could help me with this project.
+ 
+The individuals I have in mind to learn and reference from currently are including but not limited to:
+
+Alex Collier (Andromedan Contactee)
+Elena Danaan (Former Egyptian Archeologist, Earth Emissary for the Galactic Federation of Worlds)
+Nassim Haramein
+Chris Essonne (https://www.gsjournal.net/Science-Journals-Papers/Author/2334/Chris,%20Essonne)
+Dan Willis (https://thewebmatrix.net)
+
+The scale I am imagining is going to present a challenge.
+According to Elena Danaan:
+"YOU ARE 1 PERSON OUT OF 7 BILLION PEOPLE
+RESIDING ON 1 PLANET, OUT OF 8 PLANETS
+ORBITING 1 STAR, OUT OF 300 BILLION STARS
+IN 1 GALAXY, OUT OF 200 BILLION TO 3000
+TRILLION GALAXIES IN 1 UNIVERSE, OUT OF
+100^100 UNIVERSE IN MULTIVERSE."
+- Elena Danaan on Sunday, September 15, 2024 at 8:40 PM

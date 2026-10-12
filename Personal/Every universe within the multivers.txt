@@ -1,0 +1,5 @@
+Every universe within the multiverse should have its own .umgebung scene file.
+
+The hierarchy of the multiverse should be represented accurately within the hierarchy panel.
+
+Include information from Alex Collier and Nassim Haramein in the representation as well.
